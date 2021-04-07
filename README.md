@@ -1,14 +1,14 @@
-## 👋 &nbsp;Hey there! I'm Anurag
+## 👋 &nbsp;Hey there! I'm Anurag Gupta <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=AnuragGupta806.AnuragGupta806" />
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I am a Full stack developer and a Robotics Enthusiast and I like to experiment with new technologies.\
+💡 &nbsp; I am a web developer and a Robotics Enthusiast and I like to experiment with new technologies.\
 🎓 &nbsp;I'm currently pursuing B.Tech in Electronics and Communication Engineering at MNNIT Allahabad.\
 🌱 &nbsp;I'm on track for learning more about Aerial Robotics, Machine Learning and Autonomous Vehicles.\
 ✍️ &nbsp;I'm currently learning Data Structures and Algorithms and solving problems in Online Judges.\
-✉️ &nbsp;You can shoot me an email at anuraggupta5168@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at anuraggupta5168@gmail.com! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/AnuragGupta806/AnuragGupta806/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -49,8 +49,3 @@
 	<a href="https://www.instagram.com/anurock2k21/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://discordapp.com/users/413302565099274240/"><img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
 </p>
-
-
-
-### :eyes: Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{AnuragGupta806}/count.svg)
